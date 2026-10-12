@@ -1,3 +1,3 @@
-﻿Public Class FrmBuses
+﻿Partial Public Class FrmBuses
 
 End Class
