@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/docs/">
     <File Path="bitacora.md" />
+    <File Path="capturas" />
     <File Path="estados-observados.md" />
   </Folder>
   <Project Path="CarreraBuses/CarreraBuses.vbproj" />
